@@ -10,7 +10,7 @@
 🎨 I love crafting futuristic UIs and immersive 3D visuals that blend design and engineering.
 
 📫 Reach me at: [bibinvakkom@gmail.com](mailto:bibinvakkom@gmail.com)  
-🔗 Portfolio: _[Add your deployment link here]_  
+🔗 Portfolio: https://bibinbiju.github.io   
 💼 [LinkedIn](https://www.linkedin.com/in/bibin-b-biju-542583154)
 
 ---
